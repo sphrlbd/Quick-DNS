@@ -49,4 +49,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **SLaSH** -  *Developer and Designer* - [Discord](https://discord.com/users/846815411832094730) -
+* **SLaSH** -  *Developer and Designer* - [Discord](https://discord.com/users/846815411832094730)
