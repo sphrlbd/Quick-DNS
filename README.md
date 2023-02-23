@@ -21,7 +21,7 @@
 ## Getting Started
 
 
-* **Step1**: Download and open Quick DNS app from [Releases](https://github.com/1SPHR1/Quick-DNS/releases/)
+* **Step1**: Download and open latest version of Quick DNS app from [Releases](https://github.com/1SPHR1/Quick-DNS/releases/)
 
 
 * **Step2**: Select yur dns and click on the power button.
