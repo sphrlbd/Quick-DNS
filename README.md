@@ -23,9 +23,11 @@
 
 
 * **Step1**: Select yur dns and click on the power button.
+* 
 ![disconetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407514892283955/image.png)
 
 * **Step2**: Enjoy it 😄
+* 
 ![conetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407310675812502/image.png)
 
 ## Contributing
