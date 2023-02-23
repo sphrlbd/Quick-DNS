@@ -1,5 +1,3 @@
-# Quick-DNS
-Quickly set the best DNS for game, web browsing and ...
 <br/>
 <p align="center">
   <a href="https://github.com/1SPHR1/Quick-DNS">
@@ -53,6 +51,3 @@ Contributions are what make the open source community such an amazing place to b
 ## Acknowledgements
 
 * [Discord](https://github.com/ShaanCoding/)
-* []()
-* []()
-* []()
