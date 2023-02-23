@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/1SPHR1/Quick-DNS/total) ![Contributors](https://img.shields.io/github/contributors/1SPHR1/Quick-DNS?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/1SPHR1/Quick-DNS?style=social) ![Issues](https://img.shields.io/github/issues/1SPHR1/Quick-DNS) 
+![Downloads](https://img.shields.io/github/downloads/1SPHR1/Quick-DNS/total) ![Contributors](https://img.shields.io/github/contributors/1SPHR1/Quick-DNS?color=dark-green) ![Issues](https://img.shields.io/github/issues/1SPHR1/Quick-DNS)  ![Stargazers](https://img.shields.io/github/stars/1SPHR1/Quick-DNS?style=social)
 
 ## Getting Started
 
