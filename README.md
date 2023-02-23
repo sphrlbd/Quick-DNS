@@ -21,12 +21,14 @@
 ## Getting Started
 
 
+* **Step1**: Download and open Quick DNS app from [Releases](https://github.com/1SPHR1/Quick-DNS/releases/)
 
-* **Step1**: Select yur dns and click on the power button.
+
+* **Step2**: Select yur dns and click on the power button.
 
 ![disconetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407514892283955/image.png)
 
-* **Step2**: Enjoy it 😄
+* **Step3**: Enjoy it 😄
 
 ![conetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407310675812502/image.png)
 
