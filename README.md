@@ -48,8 +48,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **SLaSH** - *Javascript and Pyhton developer* - [SLaSH](https://github.com/1SPHR1/) - *Developer and Designer*
-
-## Acknowledgements
-
-* [Discord](https://github.com/ShaanCoding/)
+* **SLaSH** -  *Developer and Designer* - [Discord](https://discord.com/users/846815411832094730) -
