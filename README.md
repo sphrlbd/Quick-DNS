@@ -26,11 +26,11 @@
 
 * **Step2**: Select yur dns and click on the power button.
 
-![disconetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407514892283955/image.png)
+![disconetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407514892283955/image.png?ex=660f0843&is=65fc9343&hm=5f9f55ce8fe6b0acf0992ccdb73923afa8566e3f71eb0fb1d2f28dda61ea98f0&)
 
 * **Step3**: Enjoy it 😄
 
-![conetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407310675812502/image.png)
+![conetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407310675812502/image.png?ex=660f0812&is=65fc9312&hm=6c68bdb223dc369984ee18b838c33954fed6af8db6df3327b3e35073965439de&)
 
 ## Contributing
 
