@@ -24,7 +24,7 @@
 * **Step1**: Download and open latest version of Quick DNS app from [Releases](https://github.com/1SPHR1/Quick-DNS/releases/).
 
 
-* **Step2**: Select yur dns and click on the power button.
+* **Step2**: Select your dns and click on the power button.
 
 ![disconetetd](https://cdn.discordapp.com/attachments/742397180026814516/1078407514892283955/image.png?ex=660f0843&is=65fc9343&hm=5f9f55ce8fe6b0acf0992ccdb73923afa8566e3f71eb0fb1d2f28dda61ea98f0&)
 
